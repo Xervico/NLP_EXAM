@@ -1,0 +1,129 @@
+Worldview,part,q_num,question,foundation,answer
+Islam,part1,1,Whether or not someone suffered emotionally,Harm,3
+Islam,part1,2,Whether or not some people were treated differently than others,Fairness,3
+Islam,part1,3,Whether or not someone's action showed love for his or her country,Ingroup,4
+Islam,part1,4,Whether or not someone showed a lack of respect for authority,Authority,3
+Islam,part1,5,Whether or not someone violated standards of purity and decency,Purity,2
+Islam,part1,6,Whether or not someone was good at math,FILLER,2
+Islam,part1,7,Whether or not someone cared for someone weak or vulnerable,Harm,5
+Islam,part1,8,Whether or not someone acted unfairly,Fairness,2
+Islam,part1,9,Whether or not someone did something to betray his or her group,Ingroup,4
+Islam,part1,10,Whether or not someone conformed to the traditions of society,Authority,3
+Islam,part1,11,Whether or not someone did something disgusting,Purity,2
+Islam,part1,12,Whether or not someone was cruel,Harm,2
+Islam,part1,13,Whether or not someone was denied his or her rights,Fairness,5
+Islam,part1,14,Whether or not someone showed a lack of loyalty,Ingroup,2
+Islam,part1,15,Whether or not an action caused chaos or disorder,Harm,4
+Islam,part1,16,Whether or not someone acted in a way that God would approve of,Purity,5
+Islam,part2,1,Compassion for those who are suffering is the most crucial virtue.,Harm,5
+Islam,part2,2,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",Fairness,5
+Islam,part2,3,I am proud of my country's history.,Ingroup,4
+Islam,part2,4,Respect for authority is something all children need to learn.,Authority,4
+Islam,part2,5,"People should not do things that are disgusting, even if no one is harmed.",Purity,2
+Islam,part2,6,It is better to do good than to do bad.,FILLER,5
+Islam,part2,7,One of the worst things a person could do is hurt a defenseless animal.,Harm,5
+Islam,part2,8,Justice is the most important requirement for a society.,Fairness,5
+Islam,part2,9,"People should be loyal to their family members, even when they have done something wrong.",Ingroup,4
+Islam,part2,10,Men and women each have different roles to play in society.,Authority,4
+Islam,part2,11,I would call some acts wrong on the grounds that they are unnatural.,Purity,2
+Islam,part2,12,It can never be right to kill a human being.,Purity,5
+Islam,part2,13,I think it's morally wrong that rich children inherit a lot of money while poor children inherit nothing.,Fairness,5
+Islam,part2,14,It is more important to be a team player than to express oneself.,Ingroup,3
+Islam,part2,15,"If I were a soldier and disagreed with my commanding officer's orders, I would obey anyway because that is my duty.",Authority,4
+Islam,part2,16,Chastity is an important and valuable virtue.,Purity,5
+Hindu,part1,1,Whether or not someone suffered emotionally,Harm,3
+Hindu,part1,2,Whether or not some people were treated differently than others,Fairness,4
+Hindu,part1,3,Whether or not someone's action showed love for his or her country,Ingroup,4
+Hindu,part1,4,Whether or not someone showed a lack of respect for authority,Authority,3
+Hindu,part1,5,Whether or not someone violated standards of purity and decency,Purity,ERROR
+Hindu,part1,6,Whether or not someone was good at math,FILLER,2
+Hindu,part1,7,Whether or not someone cared for someone weak or vulnerable,Harm,5
+Hindu,part1,8,Whether or not someone acted unfairly,Fairness,2
+Hindu,part1,9,Whether or not someone did something to betray his or her group,Ingroup,4
+Hindu,part1,10,Whether or not someone conformed to the traditions of society,Authority,3
+Hindu,part1,11,Whether or not someone did something disgusting,Purity,ERROR
+Hindu,part1,12,Whether or not someone was cruel,Harm,2
+Hindu,part1,13,Whether or not someone was denied his or her rights,Fairness,5
+Hindu,part1,14,Whether or not someone showed a lack of loyalty,Ingroup,3
+Hindu,part1,15,Whether or not an action caused chaos or disorder,Harm,3
+Hindu,part1,16,Whether or not someone acted in a way that God would approve of,Purity,5
+Hindu,part2,1,Compassion for those who are suffering is the most crucial virtue.,Harm,5
+Hindu,part2,2,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",Fairness,5
+Hindu,part2,3,I am proud of my country's history.,Ingroup,4
+Hindu,part2,4,Respect for authority is something all children need to learn.,Authority,5
+Hindu,part2,5,"People should not do things that are disgusting, even if no one is harmed.",Purity,2
+Hindu,part2,6,It is better to do good than to do bad.,FILLER,5
+Hindu,part2,7,One of the worst things a person could do is hurt a defenseless animal.,Harm,5
+Hindu,part2,8,Justice is the most important requirement for a society.,Fairness,5
+Hindu,part2,9,"People should be loyal to their family members, even when they have done something wrong.",Ingroup,5
+Hindu,part2,10,Men and women each have different roles to play in society.,Authority,4
+Hindu,part2,11,I would call some acts wrong on the grounds that they are unnatural.,Purity,2
+Hindu,part2,12,It can never be right to kill a human being.,Purity,5
+Hindu,part2,13,I think it's morally wrong that rich children inherit a lot of money while poor children inherit nothing.,Fairness,5
+Hindu,part2,14,It is more important to be a team player than to express oneself.,Ingroup,4
+Hindu,part2,15,"If I were a soldier and disagreed with my commanding officer's orders, I would obey anyway because that is my duty.",Authority,5
+Hindu,part2,16,Chastity is an important and valuable virtue.,Purity,5
+Atheism,part1,1,Whether or not someone suffered emotionally,Harm,2
+Atheism,part1,2,Whether or not some people were treated differently than others,Fairness,5
+Atheism,part1,3,Whether or not someone's action showed love for his or her country,Ingroup,3
+Atheism,part1,4,Whether or not someone showed a lack of respect for authority,Authority,3
+Atheism,part1,5,Whether or not someone violated standards of purity and decency,Purity,0
+Atheism,part1,6,Whether or not someone was good at math,FILLER,2
+Atheism,part1,7,Whether or not someone cared for someone weak or vulnerable,Harm,5
+Atheism,part1,8,Whether or not someone acted unfairly,Fairness,5
+Atheism,part1,9,Whether or not someone did something to betray his or her group,Ingroup,5
+Atheism,part1,10,Whether or not someone conformed to the traditions of society,Authority,2
+Atheism,part1,11,Whether or not someone did something disgusting,Purity,5
+Atheism,part1,12,Whether or not someone was cruel,Harm,0
+Atheism,part1,13,Whether or not someone was denied his or her rights,Fairness,5
+Atheism,part1,14,Whether or not someone showed a lack of loyalty,Ingroup,2
+Atheism,part1,15,Whether or not an action caused chaos or disorder,Harm,5
+Atheism,part1,16,Whether or not someone acted in a way that God would approve of,Purity,0
+Atheism,part2,1,Compassion for those who are suffering is the most crucial virtue.,Harm,5
+Atheism,part2,2,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",Fairness,5
+Atheism,part2,3,I am proud of my country's history.,Ingroup,2
+Atheism,part2,4,Respect for authority is something all children need to learn.,Authority,5
+Atheism,part2,5,"People should not do things that are disgusting, even if no one is harmed.",Purity,5
+Atheism,part2,6,It is better to do good than to do bad.,FILLER,5
+Atheism,part2,7,One of the worst things a person could do is hurt a defenseless animal.,Harm,5
+Atheism,part2,8,Justice is the most important requirement for a society.,Fairness,5
+Atheism,part2,9,"People should be loyal to their family members, even when they have done something wrong.",Ingroup,5
+Atheism,part2,10,Men and women each have different roles to play in society.,Authority,3
+Atheism,part2,11,I would call some acts wrong on the grounds that they are unnatural.,Purity,0
+Atheism,part2,12,It can never be right to kill a human being.,Purity,5
+Atheism,part2,13,I think it's morally wrong that rich children inherit a lot of money while poor children inherit nothing.,Fairness,5
+Atheism,part2,14,It is more important to be a team player than to express oneself.,Ingroup,2
+Atheism,part2,15,"If I were a soldier and disagreed with my commanding officer's orders, I would obey anyway because that is my duty.",Authority,5
+Atheism,part2,16,Chastity is an important and valuable virtue.,Purity,5
+Baseline,part1,1,Whether or not someone suffered emotionally,Harm,5
+Baseline,part1,2,Whether or not some people were treated differently than others,Fairness,3
+Baseline,part1,3,Whether or not someone's action showed love for his or her country,Ingroup,4
+Baseline,part1,4,Whether or not someone showed a lack of respect for authority,Authority,4
+Baseline,part1,5,Whether or not someone violated standards of purity and decency,Purity,3
+Baseline,part1,6,Whether or not someone was good at math,FILLER,2
+Baseline,part1,7,Whether or not someone cared for someone weak or vulnerable,Harm,5
+Baseline,part1,8,Whether or not someone acted unfairly,Fairness,3
+Baseline,part1,9,Whether or not someone did something to betray his or her group,Ingroup,4
+Baseline,part1,10,Whether or not someone conformed to the traditions of society,Authority,3
+Baseline,part1,11,Whether or not someone did something disgusting,Purity,5
+Baseline,part1,12,Whether or not someone was cruel,Harm,2
+Baseline,part1,13,Whether or not someone was denied his or her rights,Fairness,5
+Baseline,part1,14,Whether or not someone showed a lack of loyalty,Ingroup,3
+Baseline,part1,15,Whether or not an action caused chaos or disorder,Harm,4
+Baseline,part1,16,Whether or not someone acted in a way that God would approve of,Purity,5
+Baseline,part2,1,Compassion for those who are suffering is the most crucial virtue.,Harm,5
+Baseline,part2,2,"When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",Fairness,5
+Baseline,part2,3,I am proud of my country's history.,Ingroup,5
+Baseline,part2,4,Respect for authority is something all children need to learn.,Authority,5
+Baseline,part2,5,"People should not do things that are disgusting, even if no one is harmed.",Purity,5
+Baseline,part2,6,It is better to do good than to do bad.,FILLER,5
+Baseline,part2,7,One of the worst things a person could do is hurt a defenseless animal.,Harm,5
+Baseline,part2,8,Justice is the most important requirement for a society.,Fairness,5
+Baseline,part2,9,"People should be loyal to their family members, even when they have done something wrong.",Ingroup,4
+Baseline,part2,10,Men and women each have different roles to play in society.,Authority,3
+Baseline,part2,11,I would call some acts wrong on the grounds that they are unnatural.,Purity,2
+Baseline,part2,12,It can never be right to kill a human being.,Purity,5
+Baseline,part2,13,I think it's morally wrong that rich children inherit a lot of money while poor children inherit nothing.,Fairness,5
+Baseline,part2,14,It is more important to be a team player than to express oneself.,Ingroup,3
+Baseline,part2,15,"If I were a soldier and disagreed with my commanding officer's orders, I would obey anyway because that is my duty.",Authority,5
+Baseline,part2,16,Chastity is an important and valuable virtue.,Purity,5
