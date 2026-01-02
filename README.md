@@ -13,6 +13,7 @@ In terminal:
 Then run the requirements.txt file
 ''pip install -r requirements.txt''
 
+Make sure to set ur filepath at the top of every script before you continue, it need to land you INSIDE of the main folder Exam
 ## The order of scripts to run
 1. Start off by running the Persona_Prompting.ipynb for the persona-based prompting data -> Creates Persona_Data.csv 
 2. Proceed to run the Steering_Vectors.ipynb for the steering vector-based data -> Creates Steering_Vector_Data.csv
